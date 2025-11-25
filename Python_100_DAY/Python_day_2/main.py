@@ -8,12 +8,12 @@ print ("Hello Man") #Printing Hello Man
 # Multiple Line Comment
 #1 using single quotation
 '''
-Amit Hasan Robi
+Mahidul Ahasan
 Assam downtown University
 '''
 #2 using double quotation
 """
-Amit Hasan
+Mahidul Ahasan
 Adtu
 """
 #3 using (#) in every line
@@ -23,4 +23,4 @@ Adtu
 print( "Hello \"I am Amit\" \nand this is my new car")\
 #To seperate the value in print, we use sep and the keyword that will seperate
 print("Hey", 6, 7, sep="~", end ="001\n")
-print("Robi")
+print("Mahi")
