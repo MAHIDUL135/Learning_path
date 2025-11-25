@@ -20,7 +20,7 @@ Adtu
 #Hey What's up
 #How is your days going?
 #Escape Sequence
-print( "Hello \"I am Amit\" \nand this is my new car")\
+print( "Hello \"I am Mahi\" \nand this is my new car")\
 #To seperate the value in print, we use sep and the keyword that will seperate
 print("Hey", 6, 7, sep="~", end ="001\n")
 print("Mahi")
